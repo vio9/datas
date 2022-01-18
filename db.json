@@ -1,6 +1,7 @@
 [
 	{
 		"entreprise": "FLOAX",
+		"poste":"developpeur web front",
 		"date": "août / décembre 2021",
 		"mission1": "Application de vote CFDT Réunion : création d'application de vote en ligne en React.JS / Node.JS / SCSS /BDD",
 		"mission2": "https://wowcreative.re : création du site : HTML / SCSS / PHP + Wordpress",
@@ -10,11 +11,21 @@
 	},
 	{
 		"entreprise": "WILD CODE SCHOOL",
+		"poste":"developpeur web front",
 		"date": "mar / juillet 2021",
 		"mission1": "Projet 3 : Application calculateur d'impact environnemental pour la Région Sud : React.js, MySQL, Node.js, Styled Component : 2 mois",
 		"mission2": "Hackaton : Mascarpade, application visant à proposer des activités pour lutter contre la solitude pour les habitants de Mars > Projet gagnant  : React.js, MySQL, Node.js (30 heures) https://marscapade-app.netlify.app",
 		"mission3": "Laurent Perrin Architecture : création de contenus (HTML SCSS PHP Wordpress ) (work in progress )",
 		"mission4": "Projet 2: Mood_Mixtape - Réalisation d'une application musicale utilisant l'API publique Deezer : react.js, HTML, CSS (5 semaines) : https://moodmixtape.netlify.app/",
 		"environnement": "GIT / Github / Visual Studio Code / Discord / Slack / Trello / JIRA / Figmax"
+	},
+	{
+		"entreprise": "Nespresso",
+		"consulting":"consultante Extia"
+		"poste":"Webmaster",
+		"date": "mar / juillet 2021",
+		"mission1": "Création de contenus digitaux sur le site et l’application mobile via CMS et en HTML – CSS – JS (pages, composants, landing pages, emails) ",
+		"mission2":"gestion du calendrier de diffusion des offres aux clients en collaboration avec le marketing et les développeurs",
+		"environnement": "JIRA / Trello / Hybris / "
 	}
 ]
