@@ -12,6 +12,7 @@
 	},
 	{
 		"entreprise": "WILD CODE SCHOOL",
+		"image":"https://secure.meetupstatic.com/photos/event/c/a/clean_483780202.jpeg",
 		"poste":"developpeur web front",
 		"date": "mar / juillet 2021",
 		"mission1": "Projet 3 : Application calculateur d'impact environnemental pour la Région Sud : React.js, MySQL, Node.js, Styled Component : 2 mois",
