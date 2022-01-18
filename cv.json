@@ -30,5 +30,15 @@
 		"mission1": "Création de contenus digitaux sur le site et l’application mobile via CMS et en HTML – CSS – JS (pages, composants, landing pages, emails) ",
 		"mission2":"gestion du calendrier de diffusion des offres aux clients en collaboration avec le marketing et les développeurs",
 		"environnement":"JIRA / Trello / Hybris /"
+	},
+	{
+		"entreprise": "Engie Cofely",
+		"image":"https://alsbom.fr/wp-content/uploads/2019/06/Engie-Cofely.png",
+		"consulting":"consultante Extia",
+		"poste":"Chef de communication IT Marketing",
+		"date": "mai 2019 / mars 2020",
+		"mission1": "Développement de la stratégie de communication interne de la DSI : creation de vidéos, d'un intranet, bilans d'activités",
+		"mission2":"Création et mise en place du site intranet Sharepoint de la DSI couplé à PowerBI pour présentant les projets, les applis, KPI et les actualités de la DSI",
+		"environnement":"Photoshop, Illustrator, Premiere Pro, suite Office et Office 365, CMS Sharepoint online"
 	}
 ]
