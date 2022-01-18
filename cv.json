@@ -4,10 +4,10 @@
 		"image":"https://www.floax.fr/Floax_Dark.7e53388e60ce67443d65.svg",
 		"poste":"developpeur web front",
 		"date": "août / décembre 2021",
-		"mission1": "Application de vote CFDT Réunion : création d'application de vote en ligne en React.JS / Node.JS / SCSS /BDD",
-		"mission2": "https://wowcreative.re : création du site : HTML / SCSS / PHP + Wordpress",
-		"mission3": "Laurent Perrin Architecture : création de contenus (HTML SCSS PHP Wordpress ) (work in progress )",
-		"mission4": "Floax.fr : création et mise à jour du site : AngularJS / SCSS",
+		"mission1": "✨ Application de vote CFDT Réunion : création d'application de vote en ligne en React.JS / Node.JS / SCSS /BDD",
+		"mission2": "✨ https://wowcreative.re : création du site : HTML / SCSS / PHP + Wordpress",
+		"mission3": "✨ Laurent Perrin Architecture : création de contenus (HTML SCSS PHP Wordpress ) (work in progress )",
+		"mission4": "✨ Floax.fr : création et mise à jour du site : AngularJS / SCSS",
 		"environnement": "GIT / GitLab / Visual Studio Code / Airtable / Office 365 / Teams / WorkAdventure"
 	},
 	{
@@ -15,10 +15,10 @@
 		"image":"https://secure.meetupstatic.com/photos/event/c/a/clean_483780202.jpeg",
 		"poste":"developpeur web front",
 		"date": "mar / juillet 2021",
-		"mission1": "Projet 3 : Application calculateur d'impact environnemental pour la Région Sud : React.js, MySQL, Node.js, Styled Component : 2 mois",
-		"mission2": "Hackaton : Mascarpade, application visant à proposer des activités pour lutter contre la solitude pour les habitants de Mars > Projet gagnant  : React.js, MySQL, Node.js (30 heures) https://marscapade-app.netlify.app",
-		"mission3": "Laurent Perrin Architecture : création de contenus (HTML SCSS PHP Wordpress ) (work in progress )",
-		"mission4": "Projet 2: Mood_Mixtape - Réalisation d'une application musicale utilisant l'API publique Deezer : react.js, HTML, CSS (5 semaines) : https://moodmixtape.netlify.app/",
+		"mission1": "✨ Projet 3 : Application calculateur d'impact environnemental pour la Région Sud : React.js, MySQL, Node.js, Styled Component : 2 mois",
+		"mission2": "✨ Hackaton : Mascarpade, application visant à proposer des activités pour lutter contre la solitude pour les habitants de Mars > Projet gagnant  : React.js, MySQL, Node.js (30 heures) https://marscapade-app.netlify.app",
+		"mission3": "✨ Laurent Perrin Architecture : création de contenus (HTML SCSS PHP Wordpress ) (work in progress )",
+		"mission4": "✨ Projet 2: Mood_Mixtape - Réalisation d'une application musicale utilisant l'API publique Deezer : react.js, HTML, CSS (5 semaines) : https://moodmixtape.netlify.app/",
 		"environnement": "GIT / Github / Visual Studio Code / Discord / Slack / Trello / JIRA / Figmax"
 	},
 	{
@@ -27,8 +27,8 @@
 		"consulting":"consultante Extia",
 		"poste":"Webmaster",
 		"date": "mai 2019 / mars 2020",
-		"mission1": "Création de contenus digitaux sur le site et l’application mobile via CMS et en HTML – CSS – JS (pages, composants, landing pages, emails) ",
-		"mission2":"gestion du calendrier de diffusion des offres aux clients en collaboration avec le marketing et les développeurs",
+		"mission1": "✨ Création de contenus digitaux sur le site et l’application mobile via CMS et en HTML – CSS – JS (pages, composants, landing pages, emails) ",
+		"mission2":"✨ Gestion du calendrier de diffusion des offres aux clients en collaboration avec le marketing et les développeurs",
 		"environnement":"JIRA / Trello / Hybris /"
 	},
 	{
@@ -37,8 +37,8 @@
 		"consulting":"consultante Extia",
 		"poste":"Chef de communication IT Marketing",
 		"date": "mai 2019 / mars 2020",
-		"mission1": "Développement de la stratégie de communication interne de la DSI : creation de vidéos, d'un intranet, bilans d'activités",
-		"mission2":"Création et mise en place du site intranet Sharepoint de la DSI couplé à PowerBI pour présentant les projets, les applis, KPI et les actualités de la DSI",
+		"mission1": "✨ Développement de la stratégie de communication interne de la DSI : creation de vidéos, d'un intranet, bilans d'activités",
+		"mission2":"✨ Création et mise en place du site intranet Sharepoint de la DSI couplé à PowerBI pour présentant les projets, les applis, KPI et les actualités de la DSI",
 		"environnement":"Photoshop, Illustrator, Premiere Pro, suite Office et Office 365, CMS Sharepoint online"
 	}
 ]
