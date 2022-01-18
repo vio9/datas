@@ -62,5 +62,12 @@
 		"mission3":"formation aux rédacteurs en région à l'utilisation du CMS Drupal",
 		"mission4":"Création de newsletters pour les utilisateurs d’applications SNCF (G-envie)",
 		"environnement":"Photoshop, suite Office"
+	},
+	{
+		
+		"poste":"Webmaster",
+		"date": "2012 / 2014",
+		"mission1": " Création, mise à jour ou refonte : efires.fr / theam-ateliers.com / em-films.fr / adfh.net /  potagers-de-france.com / ateliergrandparis.fr/expohabiter/index.php, https://www.ecole-multimedia.com",
+		"environnement":"HTML, CSS, Wordpress, (PHP), mySQL, Photoshop, Illustrator"
 	}
 ]
