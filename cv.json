@@ -50,5 +50,17 @@
 		"mission1": "Accompagnement au changement de plateforme web (CMS) : suivi et participation au RFI - RFP : création d'outils d'audit, de questionnaires, recueil des besoins, organisation de sessions orales avec les éditeurs de solutions CMS",
 		"mission2":"formation des utilisateurs au CMS TeamSite",
 		"environnement":"Photoshop, suite Office"
+	},
+	{
+		"entreprise": "Gares & Connexions - SNCF",
+		"image":"https://www.ville-rail-transports.com/wp-content/uploads/2017/06/sncf.png",
+		"consulting":"consultante Altran",
+		"poste":"Webmaster",
+		"date": "Octobre 2014 à Décembre 2015",
+		"mission1": " création et mise en ligne du site Gares-sncf.com : UX design : Wireframing, maquettes",
+		"mission2": "Rédaction de manuel de création de contenus éditoriaux sur le site",
+		"mission3":"formation aux rédacteurs en région à l'utilisation du CMS Drupal",
+		"mission4":"Création de newsletters pour les utilisateurs d’applications SNCF (G-envie)",
+		"environnement":"Photoshop, suite Office"
 	}
 ]
