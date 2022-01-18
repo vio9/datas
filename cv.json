@@ -1,6 +1,7 @@
 [
 	{
 		"entreprise": "FLOAX",
+		"image":"https://www.floax.fr/Floax_Dark.7e53388e60ce67443d65.svg",
 		"poste":"developpeur web front",
 		"date": "août / décembre 2021",
 		"mission1": "Application de vote CFDT Réunion : création d'application de vote en ligne en React.JS / Node.JS / SCSS /BDD",
