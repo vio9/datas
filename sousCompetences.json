@@ -1,6 +1,7 @@
 [
   {
-    		"competence":"HTML5",
+    		"competenceTitre":"Langages / framework",
+	  	"competence":"HTML5",
 		"competence":"CSS3 SCSS Styled-Component",
 		"competence":"JavaScript",
 		"competence":"React.js",
