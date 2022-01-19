@@ -1,14 +1,14 @@
 [
   {
     		"competenceTitre":"Langages / framework :",
-	  	"competence":"HTML5",
-		"competence":"CSS3 SCSS Styled-Component",
-		"competence":"JavaScript",
-		"competence":"React.js",
-		"competence":"Node.js",
-       		 "competence":"Express.js",
-		"competence":"Context API",
-		"competence":"MySQL",
-		"competence":"Meurise (modélisation BDD)"
+	  	"competence1":"HTML5",
+		"competence2":"CSS3 SCSS Styled-Component",
+		"competence3":"JavaScript",
+		"competence4":"React.js",
+		"competence5":"Node.js",
+       		 "competence6":"Express.js",
+		"competence7":"Context API",
+		"competence8":"MySQL",
+		"competence9":"Meurise (modélisation BDD)"
   }
 ]
