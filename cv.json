@@ -21,7 +21,7 @@
 		"mission2": "Hackaton : Mascarpade, application visant à proposer des activités pour lutter contre la solitude pour les habitants de Mars > Projet gagnant  : React.js, MySQL, Node.js (30 heures) https://marscapade-app.netlify.app",
 		"mission3": "Laurent Perrin Architecture : création de contenus (HTML SCSS PHP Wordpress ) (work in progress )",
 		"mission4": "Projet 2: Mood_Mixtape - Réalisation d'une application musicale utilisant l'API publique Deezer : react.js, HTML, CSS (5 semaines) : https://moodmixtape.netlify.app/",
-		"environnement": "GIT / Github / Visual Studio Code / Discord / Slack / Trello / JIRA / Figmax",
+		"environnement": "GIT / Github / Visual Studio Code / Discord / Slack / Trello / JIRA / Figma",
 		"link":"https://marscapade-app.netlify.app",
 		"link2":"https://moodmixtape.netlify.app/"
 	},
@@ -33,6 +33,8 @@
 		"date": "mai 2019 / mars 2020",
 		"mission1": "Création de contenus digitaux sur le site et l’application mobile via CMS et en HTML – CSS – JS (pages, composants, landing pages, emails) ",
 		"mission2":"Gestion du calendrier de diffusion des offres aux clients en collaboration avec le marketing et les développeurs",
+		"mission3":"Recette fonctionnelle le site internet et l’application mobile : parcours client des nouvelles fonctionnalités, tunnel d’achat",
+		"mission4":"Test des offres sur le site internet : recette, remontées et résolution des bugs, mise en ligne sur le site et l’application e-commerce",
 		"environnement":"Photoshop, suite Office et Office 365, CMS Hybris, Nessoft (outil interne Nespresso de gestion de commandes), Trello, JIRA ",
 		"link":"https://www.nespresso.com/fr/fr/"
 	},
@@ -42,9 +44,12 @@
 		"consulting":"consultante Extia",
 		"poste":"Chef de communication IT Marketing",
 		"date": "Aout 2017 / mars 2019",
-		"mission1": "Développement de la stratégie de communication interne de la DSI : creation de vidéos, d'un intranet, bilans d'activités",
+		"mission1": "Développement de la stratégie de communication interne de la DSI : creation de vidéos présentant tous les acteurs du service et des projets ",
 		"mission2":"Création et mise en place du site intranet Sharepoint de la DSI couplé à PowerBI pour présentant les projets, les applis, KPI et les actualités de la DSI",
+		"mission3":"Création de bilans d'activités",
+		"mission4":"Création et promotion d'événements en interne pour créer une meilleure communication entre les collaborateurs du service",
 		"environnement":"Photoshop, Illustrator, Premiere Pro, suite Office et Office 365, CMS Sharepoint online"
+		
 	},
 	{
 		"entreprise": "BNP Paribas – Retail developpement & Distribution",
@@ -52,8 +57,10 @@
 		"consulting":"consultante Altran",
 		"poste":"Chargée de projet web",
 		"date": "Nov 2016 – avril 2017",
-		"mission1": "Accompagnement au changement de plateforme web (CMS) : suivi et participation au RFI - RFP : création d'outils d'audit, de questionnaires, recueil des besoins, organisation de sessions orales avec les éditeurs de solutions CMS",
-		"mission2":"formation des utilisateurs au CMS TeamSite",
+		"mission1": "Accompagnement au changement de plateforme web (CMS) : suivi et participation au RFI - RFP : création d'outils d'audit et de questionnaires adaptés aux clients",
+		"mission2":"recueil des besoins des utilisateurs puis analyse",
+		"mission3":"organisation de sessions orales avec les éditeurs de solutions CMS",
+		"mission4":"formation des utilisateurs au CMS TeamSite",
 		"environnement":"Photoshop, suite Office"
 	},
 	{
@@ -73,7 +80,10 @@
 		"image":"https://cdn.pixabay.com/photo/2016/09/21/11/24/carousel-1684591_960_720.png",
 		"poste":"Webmaster",
 		"date": "2012 / 2014",
-		"mission1": " Création, mise à jour ou refonte : efires.fr / theam-ateliers.com / em-films.fr / adfh.net /  potagers-de-france.com / ateliergrandparis.fr/expohabiter/index.php, https://www.ecole-multimedia.com",
+		"mission1": " Création, mise à jour ou refonte : efires.fr / theam-ateliers.com / em-films.fr / adfh.net /",
+		"mission2": "https://www.ecole-multimedia.com",
+		"mission3":"ateliergrandparis.fr/expohabiter/index.php",
+		"mission4":"potagers-de-france.com", 
 		"environnement":"HTML, CSS, Wordpress, (PHP), mySQL, Photoshop, Illustrator"
 	}
 ]
