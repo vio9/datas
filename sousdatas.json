@@ -1,10 +1,6 @@
 {
-	"langages":[
-		"HTML5","CSS3 SCSS Styled-Component","JavaScript","React.js","Node.js / Express.js","Context API","MySQL","Meurise (modélisation BDD)"
-		]
-},
-{
-	"CMS":[
-		"Adobe CQ5", "SharePoint Online", "Hybris","Drupal","WordPress"
-		]
+  "langages": [
+    { "id": 1, "name": "Apples",  "price": "$2" },
+    { "id": 2, "name": "Peaches", "price": "$5" }
+  ]
 }
