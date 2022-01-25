@@ -1,32 +1,10 @@
-[
-	  {
-	    "competenceTitre":"Langages / framework :"
-	  },
-	  {
-	    "competence1":"HTML5"
-	  },
-	{
-		"competence2":"CSS3 SCSS Styled-Component"
-	},
-	{
-		"competence3":"JavaScript"
-	},
-	{
-		"competence4":"React.js"
-	},
-	{
-		"competence5":"Node.js"
-	},
-	{
-       		 "competence6":"Express.js"
-	},
-	{
-		"competence7":"Context API"
-	},
-	{
-		"competence8":"MySQL"
-	},
-	{
-		"competence9":"Meurise (modélisation BDD)"
-  	}
-]
+{
+	"langages":[
+		"HTML5","CSS3 SCSS Styled-Component","JavaScript","React.js","Node.js / Express.js","Context API","MySQL","Meurise (modélisation BDD)"
+		]
+},
+{
+	"CMS":[
+		"Adobe CQ5", "SharePoint Online", "Hybris","Drupal","WordPress"
+		]
+}
